@@ -1,0 +1,1234 @@
+[
+  {
+    "id": 1,
+    "title": "Baby Onesie",
+    "description": "Soft and comfortable baby onesie.",
+    "images": [
+      "https://i.ibb.co/0MdZYgx/baby-1.png",
+      "https://i.ibb.co/zfb4h14/baby-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Baby",
+    "stock": 10,
+    "color": {
+      "name": "Light Pink",
+      "hex": "#FADADD"
+    },
+    "price": {
+      "high": 20.99,
+      "low": 15.99,
+      "middle": 18.49
+    }
+  },
+  {
+    "id": 2,
+    "title": "Baby Shirt",
+    "description": "Adorable baby shirt with animal print.",
+    "images": [
+      "https://i.ibb.co/3TNKMZQ/baby-3.png",
+      "https://i.ibb.co/gPx6rPt/baby-4.png"
+    ],
+    "rating": 4.5,
+    "size": ["M", "XL"],
+    "category": "Baby",
+    "stock": 15,
+    "color": {
+      "name": "Sky Blue",
+      "hex": "#87CEEB"
+    },
+    "price": {
+      "high": 22.99,
+      "low": 18.49,
+      "middle": 20.74
+    }
+  },
+  {
+    "id": 3,
+    "title": "Baby Pants",
+    "description": "Comfortable baby pants for daily wear.",
+    "images": [
+      "https://i.ibb.co/cTpwzJb/baby-5.png",
+      "https://i.ibb.co/W6Mxnzz/baby-6.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL", "XXL"],
+    "category": "Baby",
+    "stock": 12,
+    "color": {
+      "name": "Light Green",
+      "hex": "#90EE90"
+    },
+    "price": {
+      "high": 19.99,
+      "low": 14.99,
+      "middle": 17.49
+    }
+  },
+  {
+    "id": 4,
+    "title": "Baby Jacket",
+    "description": "Warm baby jacket for cold days.",
+    "images": [
+      "https://i.ibb.co/yytgcSP/baby-7.png",
+      "https://i.ibb.co/nDysDdp/baby-8.png"
+    ],
+    "rating": 4.9,
+    "size": ["M", "L", "XL"],
+    "category": "Baby",
+    "stock": 8,
+    "color": {
+      "name": "Dark Blue",
+      "hex": "#00008B"
+    },
+    "price": {
+      "high": 25.99,
+      "low": 20.99,
+      "middle": 23.49
+    }
+  },
+  {
+    "id": 5,
+    "title": "Men's T-Shirt",
+    "description": "Casual men's t-shirt with comfortable fit.",
+    "images": [
+      "https://i.ibb.co/fH5777d/man-1.png",
+      "https://i.ibb.co/jhPVtxB/man-3.png"
+    ],
+    "rating": 4.3,
+    "size": ["M"],
+    "category": "Men",
+    "stock": 20,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 30.99,
+      "low": 24.99,
+      "middle": 27.99
+    }
+  },
+  {
+    "id": 6,
+    "title": "Men's Jacket",
+    "description": "Stylish men's jacket with a sleek design.",
+    "images": [
+      "https://i.ibb.co/Y2nhWKy/man-8.png",
+      "https://i.ibb.co/SP6JyGy/man-19.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Men",
+    "stock": 12,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "price": {
+      "high": 40.99,
+      "low": 35.49,
+      "middle": 38.24
+    }
+  },
+  {
+    "id": 7,
+    "title": "Women's Dress",
+    "description": "Elegant women's dress for formal occasions.",
+    "images": [
+      "https://i.ibb.co/jZTX77w/women-1.png",
+      "https://i.ibb.co/bmzXddP/women-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Women",
+    "stock": 18,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "price": {
+      "high": 50.99,
+      "low": 45.99,
+      "middle": 48.49
+    }
+  },
+  {
+    "id": 8,
+    "title": "Women's Top",
+    "description": "Casual women's top with vibrant colors.",
+    "images": [
+      "https://i.ibb.co/7js5tYQ/women-3.png",
+      "https://i.ibb.co/qsHwmq7/women-4.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Women",
+    "stock": 14,
+    "color": {
+      "name": "Yellow",
+      "hex": "#FFFF00"
+    },
+    "price": {
+      "high": 35.99,
+      "low": 30.99,
+      "middle": 33.49
+    }
+  },
+  {
+    "id": 9,
+    "title": "Women's Jacket",
+    "description": "Stylish women's jacket perfect for winter.",
+    "images": [
+      "https://i.ibb.co/CBZ9dDS/women-10.png",
+      "https://i.ibb.co/7kBZyd2/women-11.png"
+    ],
+    "rating": 4.9,
+    "size": ["M", "L", "XL"],
+    "category": "Women",
+    "stock": 10,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "price": {
+      "high": 60.99,
+      "low": 55.99,
+      "middle": 58.49
+    }
+  },
+  {
+    "id": 10,
+    "title": "Men's Shorts",
+    "description": "Comfortable men's shorts for casual wear.",
+    "images": [
+      "https://i.ibb.co/YcRXypN/man-6.png",
+      "https://i.ibb.co/HqvJ5y1/man-7.png"
+    ],
+    "rating": 4.4,
+    "size": ["M", "L", "XL"],
+    "category": "Men",
+    "stock": 22,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#000080"
+    },
+    "price": {
+      "high": 25.99,
+      "low": 20.99,
+      "middle": 23.49
+    }
+  },
+  {
+    "id": 11,
+    "title": "Women's Skirt",
+    "description": "Flowy women's skirt for a casual day out.",
+    "images": [
+      "https://i.ibb.co/1q1gq7F/women-8.png",
+      "https://i.ibb.co/f9QMfd1/women-7.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Women",
+    "stock": 16,
+    "color": {
+      "name": "Green",
+      "hex": "#008000"
+    },
+    "price": {
+      "high": 40.99,
+      "low": 35.49,
+      "middle": 38.24
+    }
+  },
+  {
+    "id": 12,
+    "title": "Men's Formal Shirt",
+    "description": "Smart men's formal shirt for office wear.",
+    "images": [
+      "https://i.ibb.co/jTg3sdf/man-9.png",
+      "https://i.ibb.co/0jsyZtS/man-10.png"
+    ],
+    "rating": 4.5,
+    "size": ["M", "L", "XL"],
+    "category": "Men",
+    "stock": 18,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "price": {
+      "high": 45.99,
+      "low": 39.99,
+      "middle": 42.99
+    }
+  },
+  {
+    "id": 13,
+    "title": "Women's Handbag",
+    "description": "Trendy women's handbag for everyday use.",
+    "images": [
+      "https://i.ibb.co/CbMwTng/women-bag-1.png",
+      "https://i.ibb.co/ZhQFMY1/women-bag-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 25,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 55.99,
+      "low": 49.99,
+      "middle": 52.99
+    }
+  },
+  {
+    "id": 14,
+    "title": "Men's Leather Wallet",
+    "description": "Compact men's wallet made of genuine leather.",
+    "images": [
+      "https://i.ibb.co/7Jjv0X6/men-wallet-1.png",
+      "https://i.ibb.co/qWdYyY5/men-wallet-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 30,
+    "color": {
+      "name": "Brown",
+      "hex": "#A52A2A"
+    },
+    "price": {
+      "high": 35.99,
+      "low": 29.99,
+      "middle": 32.99
+    }
+  },
+  {
+    "id": 15,
+    "title": "Women's Sunglasses",
+    "description": "Fashionable sunglasses with UV protection.",
+    "images": [
+      "https://i.ibb.co/ZJ1SxZx/women-sunglasses-1.png",
+      "https://i.ibb.co/tDcmSqS/women-sunglasses-2.png"
+    ],
+    "rating": 4.8,
+    "size": "One Size",
+    "category": "Accessories",
+    "stock": 50,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 60.99,
+      "low": 54.99,
+      "middle": 57.99
+    }
+  },
+  {
+    "id": 16,
+    "title": "Men's Sneakers",
+    "description": "Comfortable and stylish men's sneakers.",
+    "images": [
+      "https://i.ibb.co/m8qshwB/men-sneakers-1.png",
+      "https://i.ibb.co/8XTPtpz/men-sneakers-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Shoes",
+    "stock": 22,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "price": {
+      "high": 75.99,
+      "low": 69.99,
+      "middle": 72.99
+    }
+  },
+  {
+    "id": 17,
+    "title": "Women's Boots",
+    "description": "Stylish boots for women, perfect for winter.",
+    "images": [
+      "https://i.ibb.co/GRd0D7m/women-boots-1.png",
+      "https://i.ibb.co/WHT3Gq4/women-boots-2.png"
+    ],
+    "rating": 4.9,
+    "size": ["M", "L", "XL"],
+    "category": "Shoes",
+    "stock": 12,
+    "color": {
+      "name": "Brown",
+      "hex": "#8B4513"
+    },
+    "price": {
+      "high": 80.99,
+      "low": 74.99,
+      "middle": 77.99
+    }
+  },
+  {
+    "id": 18,
+    "title": "Men's Watch",
+    "description": "Elegant men's wristwatch with leather strap.",
+    "images": [
+      "https://i.ibb.co/dMRBFDZ/men-watch-1.png",
+      "https://i.ibb.co/xqXrGq3/men-watch-2.png"
+    ],
+    "rating": 4.8,
+    "size": "One Size",
+    "category": "Accessories",
+    "stock": 18,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 120.99,
+      "low": 109.99,
+      "middle": 115.49
+    }
+  },
+  {
+    "id": 19,
+    "title": "Women's Necklace",
+    "description": "Beautiful necklace with crystal pendant.",
+    "images": [
+      "https://i.ibb.co/2sKxf92/women-necklace-1.png",
+      "https://i.ibb.co/K2qHsCh/women-necklace-2.png"
+    ],
+    "rating": 4.7,
+    "size": "One Size",
+    "category": "Jewelry",
+    "stock": 40,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "price": {
+      "high": 45.99,
+      "low": 39.99,
+      "middle": 42.99
+    }
+  },
+  {
+    "id": 20,
+    "title": "Baby Shoes",
+    "description": "Soft baby shoes perfect for toddlers.",
+    "images": [
+      "https://i.ibb.co/d5kGy6r/baby-shoes-1.png",
+      "https://i.ibb.co/ysr2Q4V/baby-shoes-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Baby",
+    "stock": 30,
+    "color": {
+      "name": "Pink",
+      "hex": "#FFC0CB"
+    },
+    "price": {
+      "high": 19.99,
+      "low": 14.99,
+      "middle": 17.49
+    }
+  },
+  {
+    "id": 21,
+    "title": "Men's Cap",
+    "description": "Casual cap for outdoor activities.",
+    "images": [
+      "https://i.ibb.co/Jd6nGSD/men-cap-1.png",
+      "https://i.ibb.co/KGztH8y/men-cap-2.png"
+    ],
+    "rating": 4.4,
+    "size": "One Size",
+    "category": "Accessories",
+    "stock": 50,
+    "color": {
+      "name": "Blue",
+      "hex": "#0000FF"
+    },
+    "price": {
+      "high": 15.99,
+      "low": 12.99,
+      "middle": 14.49
+    }
+  },
+  {
+    "id": 22,
+    "title": "Women's Earrings",
+    "description": "Elegant earrings with a gold finish.",
+    "images": [
+      "https://i.ibb.co/xM8RkD4/women-earrings-1.png",
+      "https://i.ibb.co/cbrwb2Y/women-earrings-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Jewelry",
+    "stock": 35,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "price": {
+      "high": 25.99,
+      "low": 19.99,
+      "middle": 22.99
+    }
+  },
+  {
+    "id": 23,
+    "title": "Men's Belt",
+    "description": "High-quality leather belt for men.",
+    "images": [
+      "https://i.ibb.co/b2nsY4z/men-belt-1.png",
+      "https://i.ibb.co/gdpL3zP/men-belt-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 28,
+    "color": {
+      "name": "Brown",
+      "hex": "#8B4513"
+    },
+    "price": {
+      "high": 35.99,
+      "low": 29.99,
+      "middle": 32.99
+    }
+  },
+  {
+    "id": 24,
+    "title": "Women's Scarf",
+    "description": "Warm and cozy scarf for cold weather.",
+    "images": [
+      "https://i.ibb.co/0jLv5fQ/women-scarf-1.png",
+      "https://i.ibb.co/kxFJm3D/women-scarf-2.png"
+    ],
+    "rating": 4.7,
+    "size": "One Size",
+    "category": "Accessories",
+    "stock": 45,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "price": {
+      "high": 25.99,
+      "low": 19.99,
+      "middle": 22.99
+    }
+  },
+  {
+    "id": 25,
+    "title": "Men's Jacket",
+    "description": "Stylish winter jacket for men.",
+    "images": [
+      "https://i.ibb.co/74bMycq/men-jacket-1.png",
+      "https://i.ibb.co/71vK4fj/men-jacket-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Outerwear",
+    "stock": 20,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#000080"
+    },
+    "price": {
+      "high": 120.99,
+      "low": 110.99,
+      "middle": 115.99
+    }
+  },
+  {
+    "id": 26,
+    "title": "Women's Sneakers",
+    "description": "Comfortable and lightweight sneakers for women.",
+    "images": [
+      "https://i.ibb.co/RNXY6c3/women-sneakers-1.png",
+      "https://i.ibb.co/z2JxSHz/women-sneakers-2.png"
+    ],
+    "rating": 4.9,
+    "size": ["M", "L", "XL"],
+    "category": "Shoes",
+    "stock": 16,
+    "color": {
+      "name": "Pink",
+      "hex": "#FFC0CB"
+    },
+    "price": {
+      "high": 75.99,
+      "low": 69.99,
+      "middle": 72.99
+    }
+  },
+  {
+    "id": 27,
+    "title": "Men's Tie",
+    "description": "Elegant tie for formal occasions.",
+    "images": [
+      "https://i.ibb.co/4ZV8kC4/men-tie-1.png",
+      "https://i.ibb.co/yk3wns9/men-tie-2.png"
+    ],
+    "rating": 4.5,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 30,
+    "color": {
+      "name": "Dark Blue",
+      "hex": "#00008B"
+    },
+    "price": {
+      "high": 35.99,
+      "low": 29.99,
+      "middle": 32.99
+    }
+  },
+  {
+    "id": 28,
+    "title": "Women's Bracelet",
+    "description": "Delicate bracelet with charm design.",
+    "images": [
+      "https://i.ibb.co/FYVLy6g/women-bracelet-1.png",
+      "https://i.ibb.co/YLLZVRH/women-bracelet-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Jewelry",
+    "stock": 22,
+    "color": {
+      "name": "Rose Gold",
+      "hex": "#B76E79"
+    },
+    "price": {
+      "high": 55.99,
+      "low": 49.99,
+      "middle": 52.99
+    }
+  },
+  {
+    "id": 29,
+    "title": "Men's Leather Gloves",
+    "description": "Warm leather gloves for men.",
+    "images": [
+      "https://i.ibb.co/Xbxqmh6/men-gloves-1.png",
+      "https://i.ibb.co/BykFtL4/men-gloves-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 28,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 40.99,
+      "low": 35.99,
+      "middle": 38.49
+    }
+  },
+  {
+    "id": 30,
+    "title": "Women's Watch",
+    "description": "Stylish wristwatch for women with a sleek design.",
+    "images": [
+      "https://i.ibb.co/3MpnPzG/women-watch-1.png",
+      "https://i.ibb.co/dgMdXf5/women-watch-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 12,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "price": {
+      "high": 150.99,
+      "low": 140.99,
+      "middle": 145.99
+    }
+  },
+  {
+    "id": 31,
+    "title": "Men's Beanie",
+    "description": "Cozy beanie for men, perfect for winter.",
+    "images": [
+      { "src": "https://i.ibb.co/vxML2FH/men-beanie-1.png" },
+      { "src": "https://i.ibb.co/3T8HTv5/men-beanie-2.png" }
+    ],
+    "rating": 4.5,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 40,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "price": {
+      "high": 20.99,
+      "low": 16.99,
+      "middle": 18.99
+    }
+  },
+  {
+    "id": 32,
+    "title": "Women's Flats",
+    "description": "Comfortable flats for casual wear.",
+    "images": [
+      "https://i.ibb.co/K2BBsLb/women-flats-1.png",
+      "https://i.ibb.co/pP9H4L1/women-flats-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Shoes",
+    "stock": 18,
+    "color": {
+      "name": "Beige",
+      "hex": "#F5F5DC"
+    },
+    "price": {
+      "high": 45.99,
+      "low": 39.99,
+      "middle": 42.99
+    }
+  },
+  {
+    "id": 33,
+    "title": "Men's Sunglasses",
+    "description": "Stylish sunglasses with UV protection for men.",
+    "images": [
+      "https://i.ibb.co/SYpkzTp/men-sunglasses-1.png",
+      "https://i.ibb.co/KWwZfdJ/men-sunglasses-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 34,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 50.99,
+      "low": 44.99,
+      "middle": 47.99
+    }
+  },
+  {
+    "id": 34,
+    "title": "Women's Leather Bag",
+    "description": "Elegant leather handbag for women.",
+    "images": [
+      "https://i.ibb.co/6JfGhdM/women-leatherbag-1.png",
+      "https://i.ibb.co/5jpFbW8/women-leatherbag-2.png"
+    ],
+    "rating": 4.9,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 16,
+    "color": {
+      "name": "Brown",
+      "hex": "#A52A2A"
+    },
+    "price": {
+      "high": 120.99,
+      "low": 110.99,
+      "middle": 115.99
+    }
+  },
+  {
+    "id": 35,
+    "title": "Men's Casual Shirt",
+    "description": "Comfortable and stylish casual shirt for men.",
+    "images": [
+      "https://i.ibb.co/BLbgCkD/men-casual-shirt-1.png",
+      "https://i.ibb.co/7WkgB9J/men-casual-shirt-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 28,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "price": {
+      "high": 30.99,
+      "low": 24.99,
+      "middle": 27.99
+    }
+  },
+  {
+    "id": 36,
+    "title": "Women's Handbag",
+    "description": "Fashionable handbag with ample space.",
+    "images": [
+      "https://i.ibb.co/vZZtshk/women-handbag-1.png",
+      "https://i.ibb.co/WgpzG7b/women-handbag-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 15,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 89.99,
+      "low": 79.99,
+      "middle": 84.99
+    }
+  },
+  {
+    "id": 37,
+    "title": "Men's Running Shoes",
+    "description": "Lightweight running shoes for men.",
+    "images": [
+      "https://i.ibb.co/xGKcq7P/men-running-shoes-1.png",
+      "https://i.ibb.co/pW0mkS1/men-running-shoes-2.png"
+    ],
+    "rating": 4.9,
+    "size": ["M", "L", "XL"],
+    "category": "Shoes",
+    "stock": 22,
+    "color": {
+      "name": "Gray",
+      "hex": "#808080"
+    },
+    "price": {
+      "high": 95.99,
+      "low": 89.99,
+      "middle": 92.99
+    }
+  },
+  {
+    "id": 38,
+    "title": "Women's Earrings",
+    "description": "Elegant earrings for a sophisticated look.",
+    "images": [
+      "https://i.ibb.co/cgqWzsn/women-earrings-1.png",
+      "https://i.ibb.co/kX4tHKF/women-earrings-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Jewelry",
+    "stock": 20,
+    "color": {
+      "name": "Gold",
+      "hex": "#FFD700"
+    },
+    "price": {
+      "high": 59.99,
+      "low": 49.99,
+      "middle": 54.99
+    }
+  },
+  {
+    "id": 39,
+    "title": "Men's Hoodie",
+    "description": "Cozy hoodie for men with a modern design.",
+    "images": [
+      "https://i.ibb.co/NxGP6hN/men-hoodie-1.png",
+      "https://i.ibb.co/CKcsyDZ/men-hoodie-2.png"
+    ],
+    "rating": 4.5,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 35,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#000080"
+    },
+    "price": {
+      "high": 55.99,
+      "low": 49.99,
+      "middle": 52.99
+    }
+  },
+  {
+    "id": 40,
+    "title": "Women's Necklace",
+    "description": "Beautiful necklace for special occasions.",
+    "images": [
+      "https://i.ibb.co/wCp43Qd/women-necklace-1.png",
+      "https://i.ibb.co/J2Zz4kP/women-necklace-2.png"
+    ],
+    "rating": 4.9,
+    "size": ["M", "L", "XL"],
+    "category": "Jewelry",
+    "stock": 10,
+    "color": {
+      "name": "Silver",
+      "hex": "#C0C0C0"
+    },
+    "price": {
+      "high": 120.99,
+      "low": 110.99,
+      "middle": 115.99
+    }
+  },
+  {
+    "id": 41,
+    "title": "Men's Leather Belt",
+    "description": "Durable leather belt for men.",
+    "images": [
+      "https://i.ibb.co/2FhsHbh/men-belt-1.png",
+      "https://i.ibb.co/hVsdD4W/men-belt-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 40,
+    "color": {
+      "name": "Brown",
+      "hex": "#A52A2A"
+    },
+    "price": {
+      "high": 49.99,
+      "low": 39.99,
+      "middle": 44.99
+    }
+  },
+  {
+    "id": 42,
+    "title": "Women's Sandals",
+    "description": "Elegant sandals perfect for summer wear.",
+    "images": [
+      "https://i.ibb.co/9qRczYh/women-sandals-1.png",
+      "https://i.ibb.co/4gGs6xZ/women-sandals-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Shoes",
+    "stock": 25,
+    "color": {
+      "name": "Beige",
+      "hex": "#F5F5DC"
+    },
+    "price": {
+      "high": 55.99,
+      "low": 45.99,
+      "middle": 50.99
+    }
+  },
+  {
+    "id": 43,
+    "title": "Men's Formal Shoes",
+    "description": "Premium formal shoes for business wear.",
+    "images": [
+      "https://i.ibb.co/RHF4YVG/men-formal-shoes-1.png",
+      "https://i.ibb.co/CQps3R7/men-formal-shoes-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Shoes",
+    "stock": 18,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 99.99,
+      "low": 89.99,
+      "middle": 94.99
+    }
+  },
+  {
+    "id": 44,
+    "title": "Women's Denim Jacket",
+    "description": "Trendy denim jacket for casual outings.",
+    "images": [
+      "https://i.ibb.co/dmskCGL/women-denim-jacket-1.png",
+      "https://i.ibb.co/7XH6mjV/women-denim-jacket-2.png"
+    ],
+    "rating": 4.5,
+    "size": ["M", "L", "XL"],
+    "category": "Outerwear",
+    "stock": 12,
+    "color": {
+      "name": "Blue",
+      "hex": "#0000FF"
+    },
+    "price": {
+      "high": 79.99,
+      "low": 69.99,
+      "middle": 74.99
+    }
+  },
+  {
+    "id": 45,
+    "title": "Men's Polo Shirt",
+    "description": "Classic polo shirt for a casual look.",
+    "images": [
+      "https://i.ibb.co/JFhLJLR/men-polo-shirt-1.png",
+      "https://i.ibb.co/R2qLftY/men-polo-shirt-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 30,
+    "color": {
+      "name": "Green",
+      "hex": "#008000"
+    },
+    "price": {
+      "high": 40.99,
+      "low": 35.99,
+      "middle": 37.99
+    }
+  },
+  {
+    "id": 46,
+    "title": "Women's Sport Watch",
+    "description": "Durable sport watch perfect for any activity.",
+    "images": [
+      "https://i.ibb.co/Ry48BL5/women-sport-watch-1.png",
+      "https://i.ibb.co/GTfYJW3/women-sport-watch-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 15,
+    "color": {
+      "name": "Pink",
+      "hex": "#FFC0CB"
+    },
+    "price": {
+      "high": 89.99,
+      "low": 79.99,
+      "middle": 84.99
+    }
+  },
+  {
+    "id": 47,
+    "title": "Men's Backpack",
+    "description": "Spacious backpack for daily use.",
+    "images": [
+      "https://i.ibb.co/pPx9N1B/men-backpack-1.png",
+      "https://i.ibb.co/j6D1fY5/men-backpack-2.png"
+    ],
+    "rating": 4.5,
+    "size": ["M", "L", "XL"],
+    "category": "Bags",
+    "stock": 20,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 59.99,
+      "low": 49.99,
+      "middle": 54.99
+    }
+  },
+  {
+    "id": 48,
+    "title": "Women's Fitness Leggings",
+    "description": "Comfortable leggings for workouts.",
+    "images": [
+      "https://i.ibb.co/YkSKB3P/women-fitness-leggings-1.png",
+      "https://i.ibb.co/1Q5f7Jm/women-fitness-leggings-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 25,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 39.99,
+      "low": 34.99,
+      "middle": 37.99
+    }
+  },
+  {
+    "id": 49,
+    "title": "Men's Sunglasses",
+    "description": "Stylish sunglasses for sunny days.",
+    "images": [
+      "https://i.ibb.co/6XbCNhB/men-sunglasses-1.png",
+      "https://i.ibb.co/fxTbnL5/men-sunglasses-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 30,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 49.99,
+      "low": 39.99,
+      "middle": 44.99
+    }
+  },
+  {
+    "id": 50,
+    "title": "Women's Scarf",
+    "description": "Elegant scarf to complement any outfit.",
+    "images": [
+      "https://i.ibb.co/ZGfqVZZ/women-scarf-1.png",
+      "https://i.ibb.co/v3YPtq8/women-scarf-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Accessories",
+    "stock": 40,
+    "color": {
+      "name": "Red",
+      "hex": "#FF0000"
+    },
+    "price": {
+      "high": 29.99,
+      "low": 24.99,
+      "middle": 27.99
+    }
+  },
+  {
+    "id": 51,
+    "title": "Men's Chinos",
+    "description": "Comfortable chinos for casual wear.",
+    "images": [
+      "https://i.ibb.co/j3N3xQn/men-chinos-1.png",
+      "https://i.ibb.co/smR0KtY/men-chinos-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 12,
+    "color": {
+      "name": "Beige",
+      "hex": "#F5F5DC"
+    },
+    "price": {
+      "high": 54.99,
+      "low": 49.99,
+      "middle": 52.99
+    }
+  },
+  {
+    "id": 52,
+    "title": "Women's Blazer",
+    "description": "Tailored blazer for a professional look.",
+    "images": [
+      "https://i.ibb.co/p4SGf8t/women-blazer-1.png",
+      "https://i.ibb.co/TYJz1dG/women-blazer-2.png"
+    ],
+    "rating": 4.9,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 8,
+    "color": {
+      "name": "Navy Blue",
+      "hex": "#000080"
+    },
+    "price": {
+      "high": 129.99,
+      "low": 119.99,
+      "middle": 124.99
+    }
+  },
+  {
+    "id": 53,
+    "title": "Men's Casual Sneakers",
+    "description": "Versatile sneakers for daily wear.",
+    "images": [
+      "https://i.ibb.co/TbJMz3Y/men-casual-sneakers-1.png",
+      "https://i.ibb.co/5WGZkgT/men-casual-sneakers-2.png"
+    ],
+    "rating": 4.6,
+    "size": ["M", "L", "XL"],
+    "category": "Shoes",
+    "stock": 20,
+    "color": {
+      "name": "White",
+      "hex": "#FFFFFF"
+    },
+    "price": {
+      "high": 59.99,
+      "low": 49.99,
+      "middle": 54.99
+    }
+  },
+  {
+    "id": 54,
+    "title": "Women's Sports Bra",
+    "description": "Comfortable and supportive sports bra.",
+    "images": [
+      "https://i.ibb.co/YWbx1bX/women-sports-bra-1.png",
+      "https://i.ibb.co/0nqGP6F/women-sports-bra-2.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 30,
+    "color": {
+      "name": "Black",
+      "hex": "#000000"
+    },
+    "price": {
+      "high": 39.99,
+      "low": 34.99,
+      "middle": 37.99
+    }
+  },
+  {
+    "id": 55,
+    "title": "Men's Cardigan",
+    "description": "Stylish cardigan for layering.",
+    "images": [
+      "https://i.ibb.co/DWs6TJS/men-cardigan-1.png",
+      "https://i.ibb.co/JtK7RQD/men-cardigan-2.png"
+    ],
+    "rating": 4.7,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 10,
+    "color": {
+      "name": "Charcoal",
+      "hex": "#36454F"
+    },
+    "price": {
+      "high": 69.99,
+      "low": 59.99,
+      "middle": 64.99
+    }
+  },
+  {
+    "id": 56,
+    "title": "Women's Maxi Dress",
+    "description": "Flowy maxi dress for casual outings.",
+    "images": [
+      "https://i.ibb.co.com/DgzKMwq/women-10.png",
+      "https://i.ibb.co.com/5TT8vWR/women-5.png"
+    ],
+    "rating": 4.8,
+    "size": ["M", "L", "XL"],
+    "category": "Clothing",
+    "stock": 18,
+    "color": {
+      "name": "Floral",
+      "hex": "#FF69B4"
+    },
+    "price": {
+      "high": 89.99,
+      "low": 79.99,
+      "middle": 84.99
+    }
+  }
+]
