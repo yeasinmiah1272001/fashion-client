@@ -12,7 +12,7 @@ const Card = ({ item }) => {
   // }
   return (
     <div className="bg-white p-4 border-2 border-gray-200 hover:shadow-black shadow-lg duration-300">
-      <Link to={user ? `/details/${item.id}` : "/login"}>
+      <Link to={user ? `/details/${item.id}` : "/reg"}>
         <img src={item.image} className="w-64 h-64  p-6 sm:mx-auto" alt="" />
       </Link>
       <p>Category:{item.category}</p>

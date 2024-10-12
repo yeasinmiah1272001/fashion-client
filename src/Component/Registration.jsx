@@ -88,12 +88,12 @@ const Registration = () => {
           <button className="w-full rounded bg-sky-500 text-sky-50 p-2 text-center font-bold hover:bg-sky-400">
             Signup
           </button>
-          <a
+          <Link
+            to="/login"
             className="block text-start mt-2 text-xs text-red-500 mb-4"
-            href="/login"
           >
             Pleace Login
-          </a>
+          </Link>
         </form>
       </div>
     </div>

@@ -17,7 +17,7 @@ const TopNav = () => {
     if (user) {
       navigate("/dashboard/d");
     } else {
-      navigate("/login");
+      navigate("/reg");
     }
   };
 
