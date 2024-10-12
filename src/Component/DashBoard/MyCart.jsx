@@ -38,7 +38,7 @@ const MyCart = () => {
       }));
 
       const response = await axios.post(
-        "http://localhost:5000/create-checkout-session",
+        "https://server-seven-navy.vercel.app/create-checkout-session",
         {
           cartItems,
         }
